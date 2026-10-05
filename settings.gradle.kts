@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidApp4"
+rootProject.name = "SuperPodcast"
 include(":app")

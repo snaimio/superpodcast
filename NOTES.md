@@ -1,4 +1,4 @@
-# Assignment 8 Feature Checklist - SuperPodcast
+# Architecture & Engineering Checklist - SuperPodcast
 
 - [x] RSS feed parsing (`PodcastRssParser.kt`)
 - [x] Episode model (`Episode.kt`)
