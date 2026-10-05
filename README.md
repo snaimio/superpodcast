@@ -57,7 +57,7 @@ SuperPodcast is an Android podcast discovery and streaming application built wit
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/snaimio/AndroidApp4.git
+   git clone https://github.com/snaimio/superpodcast.git
    ```
 2. **Open in Android Studio**: Open Android Studio and select **File > Open**, then choose the cloned `AndroidApp4` directory.
 3. **Sync Gradle**: Allow Android Studio to sync Gradle dependencies and build the project index.
