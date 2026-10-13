@@ -16,6 +16,7 @@
 
 <br/>
 
+[Screenshots](#-visual-showcase) •
 [Features](#-key-features) •
 [Architecture](#-architecture--tech-stack) •
 [Background Sync](#-background-synchronization--notifications) •
@@ -31,6 +32,26 @@
 ## 📌 Technical Overview
 
 **SuperPodcast** is a full-featured Android podcast client designed around modern reactive architecture. It integrates semantic mood-based podcast discovery via the Apple iTunes Search API, streaming for audio, video, and HLS protocols via Media3 ExoPlayer, custom namespaced XML pull parsing for RSS feeds, local SQLite persistence via Room with reactive Kotlin `Flow`, and automated background episode polling with WorkManager.
+
+---
+
+## 📱 Visual Showcase
+
+<div align="center">
+
+| 🎯 Vibe Discovery | 🧠 Semantic Match Results | 🎧 Episode Details & Notes |
+| :---: | :---: | :---: |
+| <img src="screenshots/01_vibe_discovery_home.png" width="250" alt="Vibe Discovery Home" /> | <img src="screenshots/02_vibe_search_results.png" width="250" alt="Vibe Search Results" /> | <img src="screenshots/03_podcast_detail_audio.png" width="250" alt="Episode Details and Show Notes" /> |
+| *Curated mood chips & empty state* | *Real-time vibe compatibility scoring* | *HTML show notes & audio stream badges* |
+
+<br/>
+
+| 🎬 Media3 Video Playback | 📚 Subscriptions Library |
+| :---: | :---: |
+| <img src="screenshots/04_video_player_playback.png" width="250" alt="ExoPlayer Video Playback" /> | <img src="screenshots/05_subscriptions_library.png" width="250" alt="Offline Subscriptions Library" /> |
+| *Hardware-accelerated inline video player* | *Reactive Room SQLite persistence* |
+
+</div>
 
 ---
 
